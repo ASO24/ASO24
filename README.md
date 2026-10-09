@@ -1,16 +1,34 @@
-## Hi there 👋
+# ¡Hola! Soy Alvaro Salazar Orosco 👋
 
-<!--
-**ASO24/ASO24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Desarrollador Mobile & Web** | 💡 **AWS Student Builder**
 
-Here are some ideas to get you started:
+Apasasionado por el desarrollo móvil con **React Native**, la arquitectura de bases de datos y la creación de soluciones digitales de impacto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+* **Móvil:** React Native, Expo
+* **Frontend:** React, Vite, Tailwind CSS, Shadcn UI
+* **Backend & DB:** Node.js, Spring Boot, Supabase, PostgreSQL, Apache Cassandra
+* **Cloud & DevOps:** AWS, Docker
+
+---
+
+### 🌟 Proyectos Destacados
+
+- 🌐 **Semana de la Sostenibilidad** - Plataforma web desarrollada para **Spiing Global**.
+- 📱 **Aplicaciones Móviles Offline-First** - Desarrollo con React Native y sincronización de datos local.
+
+---
+
+### 📈 Mis Estadísticas de GitHub
+
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+📫 **¿Cómo contactarme?**
+- 💼 LinkedIn: [Tu perfil]
+- 📧 Email: tuemail@ejemplo.com
