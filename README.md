@@ -1,9 +1,10 @@
 # ¡Hola! Soy Alvaro Salazar Orosco 👋
 
-🚀 **Desarrollador Mobile & Web** | 💡 **AWS Student Builder**
+🚀 Desarrollador Mobile & Web | 💡 AWS Student Builder
 
-Apasasionado por el desarrollo móvil con **React Native**, la arquitectura de bases de datos y la creación de soluciones digitales de impacto.
+Me enfoco en crear soluciones digitales intuitivas y fáciles de usar que realmente faciliten la vida a las personas.
 
+Tengo alta adaptabilidad para colaborar en equipo o asumir el liderazgo técnico desde la etapa inicial de un proyecto —definiendo la arquitectura y trazando la hoja de ruta— con un enfoque constante en la escalabilidad a futuro.
 ---
 
 ### 🛠️ Tecnologías y Herramientas
