@@ -30,5 +30,5 @@ Apasasionado por el desarrollo móvil con **React Native**, la arquitectura de b
 ---
 
 📫 **¿Cómo contactarme?**
-- 💼 LinkedIn: [Tu perfil]
-- 📧 Email: tuemail@ejemplo.com
+- 💼 LinkedIn: https://www.linkedin.com/in/alvaro-salazar-orosco 
+- 📧 Email: alvarito1624@gmail.com
