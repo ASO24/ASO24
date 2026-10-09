@@ -25,7 +25,7 @@ Apasasionado por el desarrollo móvil con **React Native**, la arquitectura de b
 ### 📈 Mis Estadísticas de GitHub
 
 ![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=ASO24&show_icons=true&theme=tokyonight)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ASO24&layout=compact&theme=tokyonight)
 
 ---
 
