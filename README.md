@@ -10,8 +10,9 @@ Apasasionado por el desarrollo móvil con **React Native**, la arquitectura de b
 
 * **Móvil:** React Native, Expo
 * **Frontend:** React, Vite, Tailwind CSS, Shadcn UI
-* **Backend & DB:** Node.js, Spring Boot, Supabase, PostgreSQL, Apache Cassandra
-* **Cloud & DevOps:** AWS, Docker
+* **Backend:** Python, FastAPI, Spring Boot
+* **Bases de Datos:** PostgreSQL, Supabase, SQL Server
+* **Cloud:** AWS
 
 ---
 
